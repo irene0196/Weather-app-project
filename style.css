@@ -67,6 +67,14 @@
   font-size: 20px;
   color: #7c7c7c;
 }
+.code {
+  text-decoration: underline;
+  color: #007bff;
+}
+.code:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
 a {
   color: black;
   text-decoration: none;
